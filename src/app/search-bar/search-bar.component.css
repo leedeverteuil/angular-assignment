@@ -1,0 +1,39 @@
+
+.search-bar {
+	width: 100%;
+}
+
+.search-bar--input {
+	width: 78%;
+	height: 30px;
+	border: solid 1px #ccc;
+	border-radius: 5px;
+	transition: all 0.3s;
+}
+
+.search-bar--input:focus {
+	outline: 0;
+	border: solid 1px #555;
+}
+
+.search-bar--input:hover {
+	border: solid 1px #555;
+}
+
+.search-bar--button {
+	margin-left: 2%;
+	width: 20%;
+	height: 30px;
+	border-radius: 5px;
+	border: solid 1px #888;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+.search-bar--button:focus {
+	outline: 0;
+}
+
+.search-bar--button:hover {
+	border: solid 1px #555;
+}

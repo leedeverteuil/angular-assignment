@@ -1,0 +1,15 @@
+<div class='book-list'>
+
+	<div class='book-list--book' *ngFor='let book of booksArray' [ngClass]="
+
+		{'book-list--book--blue':book.Color === 'Blue',
+		'book-list--book--red':book.Color === 'Red',
+		'book-list--book--green':book.Color === 'Green'}">
+
+
+		<h3 class='book-list--book-title'>{{book.Name}}</h3>
+		<h4 class='book-list--book-author'>{{book.Author}}</h4>
+		<p class='book-list--book-publish-date'>{{book.PublishDate}}</p>
+
+	</div>
+</div>
