@@ -1,0 +1,49 @@
+{
+	"Books": [
+
+		{
+			"Name": "Catcher in the Rye",
+			"Author": "JD Salinger",
+			"PublishDate": "16/07/1951",
+			"Color": "Red"
+
+		},
+
+		{
+			"Name": "Lolita",
+			"Author": "Vladimir Nabokov",
+			"PublishDate": "11/02/1955",
+			"Color": "Blue"
+
+		},
+
+		{
+			"Name": "Slaughter House V",
+			"Author": "Kurt Vonnegut",
+			"PublishDate": "31/03/1969",
+			"Color": "Green"
+		},
+
+		{
+			"Name": "1984",
+			"Author": "George Orwell",
+			"PublishDate": "08/06/1951",
+			"Color": "Green"
+		},
+
+		{
+			"Name": "Brave New World",
+			"Author": "Alduos Huxley",
+			"PublishDate": "11/09/1932",
+			"Color": "Red"
+		},
+
+		{
+			"Name": "Ulysses",
+			"Author": "James Joyce",
+			"PublishDate": "02/02/1922",
+			"Color": "Blue"
+		}
+
+	]
+}
